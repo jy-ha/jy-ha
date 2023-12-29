@@ -15,6 +15,29 @@
 </div>
 
 ------------
+<div align="center">
+    <h3>Projects</h3>
+    <table>
+        <tr>
+            <td>
+                <h3 align="center">Nix Terminal</h3>
+                <a href="https://terminal.blonix.dev">
+                    <img src="https://assets.blonix.dev/etc/terminal.png" width="256" height="256"/>
+                </a>
+                <p align="center">국내상장기업 분석 터미널</p>
+            </td>
+            <td>
+                <h3 align="center">Dayoff</h3>
+                <a href="https://dayoff.blonix.dev">
+                    <img src="https://assets.blonix.dev/dayoff/img/dayoff-logo.png" width="256" height="256"/>
+                </a>
+                <p align="center">일정 공유 캘린더</p>
+            </td>
+        </tr>
+    </table>
+</div>
+
+------------
 
 <div align="center">
     <h3>Tech Stack</h3>
