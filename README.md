@@ -59,6 +59,8 @@
 
 <div align="center">
     <h5>Backend</h5>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS Chalice-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
 </div>
@@ -83,7 +85,7 @@
     <img src="https://img.shields.io/badge/Gym-0081A5?style=flat-square&logo=OpenAIGym&logoColor=white"/>
     <img src="https://img.shields.io/badge/ML Agent-FFFFFF?style=flat-square"/>
     <br/>
-    <img src="https://img.shields.io/badge/LLM-5C3EE8?style=flat-square"/>
+    <img src="https://img.shields.io/badge/LLMs-5C3EE8?style=flat-square"/>
     <img src="https://img.shields.io/badge/Stable Diffusion-5C3EE8?style=flat-square"/>
 </div>
 
