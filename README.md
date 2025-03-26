@@ -22,14 +22,21 @@
             <td>
                 <h3 align="center">Nix Terminal</h3>
                 <a href="https://terminal.blonix.dev">
-                    <img src="https://assets.blonix.dev/etc/terminal.png" width="256" height="256"/>
+                    <img src="https://assets.blonix.dev/etc/terminal.png" width="160" height="160"/>
                 </a>
                 <p align="center">국내상장기업 분석 터미널</p>
             </td>
             <td>
+                <h3 align="center">Immersive-Todo</h3>
+                <a href="https://immersive-todo.blonix.dev">
+                    <img src="https://assets.blonix.dev/etc/immersive-todo.jpg" width="160" height="160"/>
+                </a>
+                <p align="center">몰입을 위한 Todo</p>
+            </td>
+            <td>
                 <h3 align="center">Dayoff</h3>
                 <a href="https://dayoff.blonix.dev">
-                    <img src="https://assets.blonix.dev/dayoff/img/dayoff-logo.png" width="256" height="256"/>
+                    <img src="https://assets.blonix.dev/dayoff/img/dayoff-logo.png" width="160" height="160"/>
                 </a>
                 <p align="center">일정 공유 캘린더</p>
             </td>
