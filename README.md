@@ -40,13 +40,6 @@
                 </a>
                 <p align="center">몰입을 위한 Todo</p>
             </td>
-            <td>
-                <h3 align="center">Dayoff</h3>
-                <a href="https://dayoff.blonix.dev">
-                    <img src="https://assets.blonix.dev/dayoff/img/dayoff-logo.png" width="160" height="160"/>
-                </a>
-                <p align="center">일정 공유 캘린더</p>
-            </td>
         </tr>
     </table>
 </div>
