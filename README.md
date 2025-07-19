@@ -20,6 +20,13 @@
     <table>
         <tr>
             <td>
+                <h3 align="center">Hiremind</h3>
+                <a href="https://hiremind.work">
+                    <img src="https://assets.blonix.dev/etc/hiremind_logo.png" width="160" height="160"/>
+                </a>
+                <p align="center">이력서 분석 AI 솔루션</p>
+            </td>
+            <td>
                 <h3 align="center">Nix Terminal</h3>
                 <a href="https://terminal.blonix.dev">
                     <img src="https://assets.blonix.dev/etc/terminal.png" width="160" height="160"/>
