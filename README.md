@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F2B740?style=flat-square&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 </div>
 
 <div align="center">
@@ -84,6 +84,13 @@
 </div>
 
 <div align="center">
+    <h5>Agent</h5>
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=LangGraph&logoColor=white"/>
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+</div>
+
+<div align="center">
     <h5>ML</h5>
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
@@ -92,7 +99,6 @@
     <img src="https://img.shields.io/badge/Gym-0081A5?style=flat-square&logo=OpenAIGym&logoColor=white"/>
     <img src="https://img.shields.io/badge/ML Agent-FFFFFF?style=flat-square"/>
     <br/>
-    <img src="https://img.shields.io/badge/LLMs-5C3EE8?style=flat-square"/>
     <img src="https://img.shields.io/badge/Stable Diffusion-5C3EE8?style=flat-square"/>
 </div>
 
