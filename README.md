@@ -20,11 +20,11 @@
     <table>
         <tr>
             <td>
-                <h3 align="center">Hiremind</h3>
+                <h3 align="center">HireMind</h3>
                 <a href="https://hiremind.work">
                     <img src="https://assets.blonix.dev/etc/hiremind_logo.png" width="160" height="160"/>
                 </a>
-                <p align="center">이력서 분석 AI 솔루션</p>
+                <p align="center">온톨로지 HR AI</p>
             </td>
             <td>
                 <h3 align="center">Nix Terminal</h3>
