@@ -104,6 +104,7 @@
 <div align="center">
     <h5>Frontend</h5>
     <img src="https://img.shields.io/badge/Vue 3-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square"/>
 </div>
 
 <div align="center">
